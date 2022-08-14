@@ -254,18 +254,22 @@ ol{
     }
     .blok{
         width: 100%;
-        background-color: #e5e5e590;
-        margin: 7px 0;
-        padding: 2px 0;
+        height: 10%;
+        background-color: #ffd5a480;
+        margin: 9px 0;
+        padding: 20px;
         float: left;
         font-size: 14px;
+        border-radius: 30px;
+        border-style: dashed;
+        
     }
     p{
         text-indent: 22px;
         line-height: 1,1;
     }
-    h1{
-        line-height: 1.8;
+    h1, h3{
+        line-height: 2;
         font-size: 17px;
         line-height: 1,5;
     }
