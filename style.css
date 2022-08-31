@@ -151,12 +151,13 @@ h1, h2, h3{
     margin: 1% 15px 0 0;
     padding: 0;
 }
-
-ol{
-    text-indent: 5px;
-}
-li{
-    text-indent: 10px;
+.rek{
+    
+    width: 30%;
+    position: fixed;
+    top: 20%;
+    right: 15px;
+    z-index: 1000;
 }
 .in{
     color: #ff8e31;
