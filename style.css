@@ -222,7 +222,9 @@ h1, h2, h3{
         transition: color .2s linear;
         text-align: center;
     }
-    
+    .rek{
+        display: none;
+    }
     span{
         display: inline-block;
         color: #e5a037;
