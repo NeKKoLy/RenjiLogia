@@ -5,6 +5,7 @@ body{
     line-height: 1.6;
     color: #000;
     background-color: #f3f3f3;
+    text-align: justify;
 }
 *{
     padding: 0;
@@ -173,6 +174,7 @@ h1, h2, h3{
         line-height: 1.6;
         color: #000;
         background-color: #f3f3f3;
+        text-align: justify;
     }
     *{
         padding: 0;
@@ -284,7 +286,6 @@ h1, h2, h3{
         height: 10%;
         background-color: #ffd5a480;
         margin: 9px 0;
-        
         float: left;
         font-size: 14px;
         border-radius: 30px;
