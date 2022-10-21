@@ -290,10 +290,11 @@ h1, h2, h3{
         font-size: 14px;
         border-radius: 30px;
         border-style: dashed;
-        
+        text-align: left;
     }
     .blok p{
         padding: 20px;
+        
     }
     p{
         text-indent: 15px;
@@ -302,7 +303,7 @@ h1, h2, h3{
     }
     h1, h2, h3{
         margin: 20px 10px 5px 0px;
-        
+        text-align: left;
     }
     .pik{
         width: 90%;
@@ -324,6 +325,7 @@ h1, h2, h3{
         float: left;
         margin: 1% 15px 0 0;
         padding: 0;
+        width: 25%;
     }
     .rek{
         
